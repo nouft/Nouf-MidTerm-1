@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nouf-MidTerm-1</string>
+    <string name="button3">buttons</string>
+    <string name="button4">buttons</string>
+    <string name="track1">pictures</string>
+    <string name="travel">pictures</string>
+    <string name="birth_date">birth_date</string>
+</resources>
